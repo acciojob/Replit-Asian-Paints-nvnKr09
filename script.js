@@ -1,7 +1,7 @@
 //your JS code here. If required.
 document.addEventListener("DOMContentLoaded", function () {
       const changeColorButton = document.getElementById("change_button");
-      const resetButton = document.getElementById("Reset");
+      const resetButton = document.getElementById("reset_button");
       const blockIdInput = document.getElementById("block_id");
       const colorInput = document.getElementById("colour_id");
       const gridItems = document.querySelectorAll(".grid-item");
